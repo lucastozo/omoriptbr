@@ -2135,7 +2135,7 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 				// Addon for checking JUICE
 				if(DataManager.isSkill(action.item())) {
 					if(subject.mp < action.item().mpCost) {
-						this._logWindow.push("addText", subject.name().toUpperCase() + " does not have enough JUICE!");
+						this._logWindow.push("addText", subject.name().toUpperCase() + " não tem SUCO o suficiente!");
 						this._logWindow.push("wait");
 					}
 				}		
@@ -2678,7 +2678,7 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 			}
 			if(state.id === target.deathStateId() && target.isActor()) {
 				if([1,8,9,10,11].contains(target.actorId())) {
-					stateMsg = " blacked out!";
+					stateMsg = " desmaiou!";
 				}
 			}
 			if (stateMsg) {
