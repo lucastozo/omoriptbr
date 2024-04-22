@@ -7,7 +7,7 @@ message_1:
       text: \n<FOLHINHA>Você sabe o que eu odeio mais do que tudo?\!<br>\quake[1]Coelhos.\quake[0]\! Isso mesmo.\! \quake[1]Coelhos.\quake[0]
 
 message_2:
-      text: \n<FOLHINHA>Eu simplesmente odeio eles.\!<br>Se eu pudesse realizar um desejo, <br>eu iria destruir todos os \quake[1]coelhos.\quake[0]
+      text: \n<FOLHINHA>Eu simplesmente odeio eles.\!<br>Se eu pudesse realizar um desejo, <br>eu destruiria todos os \quake[1]coelhos.\quake[0]
 
 #If you killed at least 1 bunny
 

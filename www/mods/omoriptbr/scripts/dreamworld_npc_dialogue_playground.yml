@@ -232,7 +232,7 @@ message_85:
       text: \berE toma esse certificado.\! Mostre pros seus amigos. \!<br>Eles vão ficar orgulhosos!
 
 message_86:
-      text: AUBREY aprendeu a dar \c[1]CABEÇADA\c[0].
+      text: AUBREY aprendeu \c[1]CABEÇADA\c[0].
 
 message_87:
       text: Você ganhou um \c[4]CERTIFICADO DE CABEÇUDA\c[0].

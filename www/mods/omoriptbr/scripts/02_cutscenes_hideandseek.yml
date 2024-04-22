@@ -3,7 +3,7 @@
 # =========================================================================================
 
 message_0:
-      text: Um livro entitulado \c[4]TUDO SOBRE BATALHAS\c[0].\!<br>Você provavelmente deveria ler isso.
+      text: Um livro intitulado \c[4]TUDO SOBRE BATALHAS\c[0].\!<br>Você provavelmente deveria ler isso.
 
 message_1:
       text: Você gostaria de dar uma olhada?
